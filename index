@@ -1,0 +1,72 @@
+Construiește o aplicație web educațională completă,
+numită DOSARUL METEOROLOGULUI.
+
+Public țintă: elevi de clasa a IV-a.
+Disciplina: Științe ale naturii.
+Tema: Anotimpurile și modificările vremii.
+
+Tehnologii:
+HTML5, CSS3 și JavaScript.
+Aplicația trebuie să funcționeze fără backend,
+fără instalări și fără chei API.
+
+Creează un index.html autonom.
+
+STRUCTURA APLICAȚIEI:
+
+1. DESCOPERĂ
+- Explicarea anotimpurilor.
+- Diferența dintre vreme și anotimp.
+- Exemple ilustrate.
+
+2. CARDURILE-INDICIU
+- Primăvara, vara, toamna, iarna.
+- Ploaia, ceața, vântul, temperatura.
+- Imagini sugestive și explicații.
+- Diferențiere între caracteristicile
+  anotimpurilor și fenomenele meteorologice.
+
+3. INVESTIGHEAZĂ
+- Exerciții de observare.
+- Formularea unei ipoteze.
+- Identificarea dovezilor.
+- Situații-problemă.
+- Feedback imediat.
+
+4. VERIFICĂ-TE
+- Test cu minimum 10 întrebări.
+- Variante de răspuns.
+- Verificare automată.
+- Punctaj.
+- Explicații pentru fiecare răspuns.
+- Rezultat final.
+
+5. REFLECȚIE
+- Termometrul învățării.
+- Autoevaluare în trei niveluri.
+- Dovada învățării.
+- Întrebare personală.
+
+CERINȚE TEHNICE:
+- Design responsive pentru calculator,
+  tabletă și telefon.
+- Interfață intuitivă pentru copii.
+- Butoane mari și lizibile.
+- Diacritice românești corecte.
+- Salvarea progresului local.
+- Posibilitatea descărcării raportului individual.
+- Buton de reluare a activității.
+- Fără erori JavaScript.
+
+IDENTITATE VIZUALĂ:
+Stil educațional modern, vesel, dar profesionist.
+Culori asociate celor patru anotimpuri.
+Ilustrații atractive și simboluri meteorologice.
+
+IMPORTANT:
+Nu transforma aplicația într-un simplu test.
+Accentul trebuie să fie pe învățarea prin descoperire,
+argumentare și verificarea ipotezelor.
+
+Verifică funcționalitatea tuturor butoanelor
+și a tuturor activităților înainte de finalizare.
